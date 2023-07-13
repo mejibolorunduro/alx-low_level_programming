@@ -1,7 +1,7 @@
 #Include < stdio.h >
 /**
  * main - A C program that prints a line using the function puts
- * Return: 0
+ * Return: 0 (SUCCESS)
  */
 int main(void)
 {
