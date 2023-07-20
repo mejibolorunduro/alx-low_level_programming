@@ -5,7 +5,7 @@
  * Description: 'print_alphabet - print all alphabet in lowercase'
  */
 
-void print_alphabet: 'print all aphabets in lowercase'(void)
+void print_alphabet/*print all in lowercase*/(void)
 {
 	char letter;
 
