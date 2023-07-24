@@ -5,7 +5,7 @@
 * Return: 0
 */
 
-int main(void)
+int main/*0-main.c*/(void)
 {
         int i;
 
