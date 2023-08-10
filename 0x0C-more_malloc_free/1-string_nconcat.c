@@ -9,7 +9,7 @@
  *
  * Return: pointer to the resulting string
  */
-char *string_nconcat(char *s1, char *s2, unsigned int n)
+char *string_nconcat/*nconcat*/(char *s1, char *s2, unsigned int n)
 {
 	char *s;
 	unsigned int i = 0, j = 0, len1 = 0, len2 = 0;
